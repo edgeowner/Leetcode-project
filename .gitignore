@@ -68,6 +68,7 @@ target/
 .svn
 .CVS
 .idea
+out
 node_modules
 build/
 reference/
